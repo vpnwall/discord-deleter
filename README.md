@@ -1,8 +1,8 @@
 # reddit-deleter : 
 [www.redact.dev](https://redact.dev?affiliateCode=REDDIT15)
-*Easy for non-technical users
-*Quickly remove old Reddit posts, comments, or private messages in bulk
-*Back-up deleted posts, comments, DMs in local archive
+-Easy for non-technical users
+-Quickly remove old Reddit posts, comments, or private messages in bulk
+-Back-up deleted posts, comments, DMs in local archive
 
 # discord-deleter
 Link not available yet
