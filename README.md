@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/3f8726d8-7967-4369-b1b8-58217c098775
 
 
-[www.redact.dev](https://redact.dev?affiliateCode=REDDIT15)
+See the tool @ [www.redact.dev](https://redact.dev?affiliateCode=REDDIT15)
 
 -Easy for non-technical users, zero scripting required
 
