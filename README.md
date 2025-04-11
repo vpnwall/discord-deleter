@@ -1,7 +1,12 @@
-# reddit-deleter : [www.redact.dev](https://redact.dev?affiliateCode=REDDIT15)
+# reddit-deleter : 
+[www.redact.dev](https://redact.dev?affiliateCode=REDDIT15)
+*Easy for non-technical users
+*Quickly remove old Reddit posts, comments, or private messages in bulk
+*Back-up deleted posts, comments, DMs in local archive
 
 # discord-deleter
-1.1 discord deleter (To be released end of this month, just fixing up some glitches)
+Link not available yet
+*1.1 discord deleter (To be released end of this month, just fixing up some glitches)
 
 Discord Delete
 A simple yet powerful bot designed to help manage your Discord server by deleting messages efficiently. This bot is particularly useful for moderating channels and maintaining a clean environment.
