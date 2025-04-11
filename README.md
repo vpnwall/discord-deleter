@@ -1,3 +1,5 @@
+# reddit-deleter : (www.redact.dev)[https://redact.dev?affiliateCode=REDDIT15]
+
 # discord-deleter
 1.1 discord deleter (To be released end of this month, just fixing up some glitches)
 
